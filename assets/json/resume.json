@@ -1,37 +1,30 @@
 {
   "basics": {
-    "name": "Saeid Ghasemshirazi",
-    "label": "PhD Student",
+    "name": "Behzad Beigzadeh",
+    "label": " Student",
     "image": "",
-    "email": "saeidghshirazi(at)gmail.com",
-    "url": "https://saeidshirazi.github.io/",
+    "email": "behzadqwbeig(at)gmail.com",
+    "url": "https://behzadbeigzadeh.github.io/",
     "summary": "",
     "location": {
-      "city": "Ottawa",
-      "countryCode": "CA"
+      "city": "",
+      "countryCode": ""
     },
     "profiles": []
   },
   "education": [
+  
     {
-      "institution": "Carleton University",
-      "area": "Computer Science",
-      "studyType": "PhD",
-      "startDate": "2024",
-      "endDate": "Present",
-      "courses": ["Supervised by Professor Lianying Zhao"]
-    },
-    {
-      "institution": "University of Science & Technology",
+      "institution": "Tarbiat Modares University",
       "location": "Tehran, Iran",
-      "area": "E-commerce",
+      "area": "Soft computing",
       "studyType": "M.Sc.",
-      "startDate": "2020",
-      "endDate": "2023",
+      "startDate": "2019",
+      "endDate": "2021",
       "courses": [
-        "Supervised by Dr. Mohammad Fathian",
-        "GPA - 18.39/20",
-        "Thesis - A Novel CNN-based Approach for Smart Contract Vulnerability Detection"
+   
+        "GPA - 15.75/20",
+       
       ]
     },
     {
@@ -40,7 +33,7 @@
       "area": "Computer Engineering",
       "studyType": "B.Sc.",
       "startDate": "2015",
-      "endDate": "2020",
+      "endDate": "2019",
       "courses": ["Project - Developed Python-Based Tools for Automated OSINT"]
     }
   ],
