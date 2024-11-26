@@ -11,19 +11,17 @@
   contents:
     - title: M.Sc in Computer Science
       institution: Tarbiyat Modares University
-      year: 2024 - now
+      year: 2019 - 2021
+     
+      institution: Tarbiyat Modares University, Tehran, Iran
+      year: 2019 - 2021
       description:
-        - Supervised by Professor Lianying Zhao.
-    - title: M.Sc. in E-commerce
-      institution: University of Science & Technology, Tehran, Iran
-      year: 2020 - 2023
-      description:
-        - Supervised by Dr. Mohammad Fathian.
-        - GPA - 18.39/20.
-        - Thesis - A Novel CNN-based Approach for Smart Contract Vulnerability Detection.
+       
+        - GPA - 15.75/20.
+        - Researching on sdn
     - title: B.Sc. in Computer Engineering
       institution: Shahid Bahonar University of Kerman, Kerman, Iran
-      year: 2015 - 2020
+      year: 2015 - 2019
       description:
         - GPA - 15.44/20.
         - Project -  Developed Python-Based Tools for Automated OSINT.
@@ -31,11 +29,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate Research Assistant
-      institution: CCSL - Carleton Computer Security Lab, Ottawa, Canada
-      year: 2024 - Present
-      description:
-        - Focus: Utilizing machine learning for IoT audit, threat detection, and threat hunting.
+    
     - title: Graduate Research Assistant
       institution: Iran University of Science & Technology, Ottawa, Canada
       year: 2021 - 2023
