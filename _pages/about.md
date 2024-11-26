@@ -21,7 +21,7 @@ I hold a Master's degree in Computer Science from Tarbiat Modares University. My
 
 ##### Research
 
-As a cybersecurity researcher at the [Tarbiat modares Computer Security Lab (TMU)](https://www.modares.ac.ir./), I specialize in cybersecurity, big data security, and machine learning-based detection systems. Currently, my research is centered on security audits in IoT and developing security metrics. I am also exploring innovative paradigms for creating the next generation of more secure systems.
+As a cybersecurity researcher at the [Tarbiat modares Computer Security Lab (TMU)](https://www.modares.ac.ir/), I specialize in cybersecurity, big data security, and machine learning-based detection systems. Currently, my research is centered on security audits in IoT and developing security metrics. I am also exploring innovative paradigms for creating the next generation of more secure systems.
 
 ##### Content Creating
 
