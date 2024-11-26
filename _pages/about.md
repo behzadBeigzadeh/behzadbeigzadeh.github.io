@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cybersecurity Researcher, I have majored in Computer Science from <a href='https://www.modares.ac.ir/'>TMU</a>.
+subtitle: Cybersecurity Researcher with a background in Computer Science, graduated from <a href='https://www.modares.ac.ir/'>TMU</a>.
 
 profile:
   align: right
