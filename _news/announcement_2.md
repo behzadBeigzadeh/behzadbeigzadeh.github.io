@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Defending My Master's Thesis on Smart Contract Security.
+"I am actively exploring various aspects of security, including IoT security, federated learning, industrial automation, and more."
