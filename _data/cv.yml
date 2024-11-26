@@ -10,25 +10,21 @@
   type: time_table
   contents:
     - title: M.Sc in Computer Science
-     
       institution: Tarbiyat Modares University, Tehran, Iran
       year: 2019 - 2021
       description:
-       
-        - GPA - 15.75/20.
-        - Researching on sdn
+        - GPA: 15.75/20
+        - Researching on SDN
     - title: B.Sc. in Computer Engineering
       institution: Shahid Bahonar University of Kerman, Kerman, Iran
       year: 2015 - 2019
       description:
-        - GPA - 15.44/20.
-        - Project -  Developed Python-Based Tools for Automated OSINT.
+        - GPA: 15.44/20
+        - Project: Developed Python-Based Tools for Automated OSINT
 
 - title: Experience
   type: time_table
   contents:
-    
-  
     - title: Junior Security Consultant
       institution: Barez Industrial Group, Kerman, Iran
       year: 2020 - 2021
@@ -46,21 +42,16 @@
         - Hands-on research and learning for enhancing network security and combating cyber threats using tools like Wireshark and Burp Suite. Conducted vulnerability scans using Nessus and Acunetix and demonstrated proficiency in malware analysis using IDA Pro.
 
 - title: Featured Publications
- type: time_table
-contents:
-  - title: "Federated Learning: Attacks, Defenses, Opportunities, and Challenges"
-    year: 2024
-    description:
-      - "2024 11th International Symposium on Telecommunication (IST)."
-
-     
-    - title: IoT-Shield A Novel DDoS Detection Approach for IoT-Based Devices
+  type: time_table
+  contents:
+    - title: "Federated Learning: Attacks, Defenses, Opportunities, and Challenges"
+      year: 2024
+      description:
+        - "2024 11th International Symposium on Telecommunication (IST)."
+    - title: "IoT-Shield: A Novel DDoS Detection Approach for IoT-Based Devices"
       year: 2021
       description:
-        - 2021 11th Smart Grid Conference (SGC).
-   
-
-
+        - "2021 11th Smart Grid Conference (SGC)."
 
 - title: Technical Skills
   type: list
@@ -98,3 +89,4 @@ contents:
   type: list
   contents:
     - Hobbies: Hiking, Watching Anime, CTF
+
