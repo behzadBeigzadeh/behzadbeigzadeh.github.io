@@ -5,10 +5,9 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [security, machine learning, work, fun]
+display_categories: [work, fun]
 horizontal: false
 ---
-
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -21,3 +20,27 @@ horizontal: false
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
+  {% if page.horizontal %}
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+  {% else %}
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  {% endif %}
+  {% endfor %}
+{% else %}
+  <!-- Generate cards for all projects -->
+  {% assign sorted_projects = site.projects | sort: "importance" %}
+  {% if page.horizontal %}
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+  {% else %}
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  {% endif %}
+{% endif %}
+</div>
