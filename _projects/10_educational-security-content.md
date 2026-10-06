@@ -3,7 +3,9 @@ layout: page
 title: Educational Security Content
 description: Educational materials covering Blockchain, AFL fuzzing, Cryptography, and Network Security.
 importance: 1
-category: security
+category: work
 ---
 
+
 [View the project on GitHub](https://github.com/behzadBeigzadeh/Educational-Content)
+
