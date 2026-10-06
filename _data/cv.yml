@@ -15,12 +15,12 @@
       institution: Tarbiat Modares University, Tehran, Iran
       year: 2019 - 2021
       description:
-        - CGPA: 15.75/20 (3.15/4)
+        - "CGPA: 15.75/20 (3.15/4)"
     - title: B.Sc. in Computer Software Engineering
       institution: Shahid Bahonar University, Kerman, Iran
       year: 2015 - 2019
       description:
-        - CGPA: 15.57/20 (3.12/4); final-year GPA: 17.87/20 (3.57/4)
+        - "CGPA: 15.57/20 (3.12/4); final-year GPA: 17.87/20 (3.57/4)"
 
 - title: Research Interests
   type: list
@@ -65,43 +65,43 @@
 - title: Publications
   type: time_table
   contents:
-    - title: Federated Learning: Attacks, Defenses, Opportunities, and Challenges
+    - title: "Federated Learning: Attacks, Defenses, Opportunities, and Challenges"
       year: 2024
       description:
-        - 11th International Symposium on Telecommunication (IST), IEEE.
-    - title: IoT-Shield: A Novel DDoS Detection Approach for IoT-Based Devices
+        - "11th International Symposium on Telecommunication (IST), IEEE."
+    - title: "IoT-Shield: A Novel DDoS Detection Approach for IoT-Based Devices"
       year: 2021
       description:
-        - 11th Smart Grid Conference (SGC), IEEE.
+        - "11th Smart Grid Conference (SGC), IEEE."
     - title: Explainable Machine Learning Framework for Android Malware Detection
       year: 2025
       description:
-        - Submitted to the 15th International Conference on Computer and Knowledge Engineering Research (ICCKE).
+        - "Submitted to the 15th International Conference on Computer and Knowledge Engineering Research (ICCKE)."
 
 - title: Selected Projects
   type: list
   contents:
-    - Educational Security Content - Slides, videos, and documents on Blockchain, AFL fuzzing, cryptography, and network security. <a href='https://github.com/behzadBeigzadeh/Educational-Content'>GitHub</a>
-    - Privacy-Preserving Clinical AI via Federated Learning - Privacy-preserving federated learning for clinical AI applications. <a href='https://github.com/behzadBeigzadeh/privacy-preserving-clinical-ai-federated-learning'>GitHub</a>
-    - ECDSA Implementation - Low-level Python implementation of the Elliptic Curve Digital Signature Algorithm. <a href='https://github.com/behzadBeigzadeh/ECDSA-Implementation'>GitHub</a>
-    - RSA Key Vulnerability - Educational demonstration of RSA common-prime-factor vulnerabilities. <a href='https://github.com/behzadBeigzadeh/RSA-Key-Vulnerability'>GitHub</a>
+    - "Educational Security Content - Slides, videos, and documents on Blockchain, AFL fuzzing, cryptography, and network security. <a href='https://github.com/behzadBeigzadeh/Educational-Content'>GitHub</a>"
+    - "Privacy-Preserving Clinical AI via Federated Learning - Privacy-preserving federated learning for clinical AI applications. <a href='https://github.com/behzadBeigzadeh/privacy-preserving-clinical-ai-federated-learning'>GitHub</a>"
+    - "ECDSA Implementation - Low-level Python implementation of the Elliptic Curve Digital Signature Algorithm. <a href='https://github.com/behzadBeigzadeh/ECDSA-Implementation'>GitHub</a>"
+    - "RSA Key Vulnerability - Educational demonstration of RSA common-prime-factor vulnerabilities. <a href='https://github.com/behzadBeigzadeh/RSA-Key-Vulnerability'>GitHub</a>"
 
 - title: Technical Skills
   type: list
   contents:
-    - Programming Languages: Python, C#, SQL, JavaScript
-    - Security and Networking: Burp Suite, Wireshark, Tcpdump, Nmap, Metasploit, Aircrack-ng, Nessus, Splunk, SIEM, Kali Linux, Volatility
-    - Development and Systems: ASP.NET Core, Django, Docker, Git, Linux/UNIX, Google Cloud Platform
+    - "Programming Languages: Python, C#, SQL, JavaScript"
+    - "Security and Networking: Burp Suite, Wireshark, Tcpdump, Nmap, Metasploit, Aircrack-ng, Nessus, Splunk, SIEM, Kali Linux, Volatility"
+    - "Development and Systems: ASP.NET Core, Django, Docker, Git, Linux/UNIX, Google Cloud Platform"
 
 - title: Certificates
   type: list
   contents:
-    - Certified Network+, Iran's Technical and Vocational Training Organization
+    - "Certified Network+, Iran's Technical and Vocational Training Organization"
     - Teaching ICDL Skills to Students, Shahid Bahonar University
 
 - title: Honors and Achievements
   type: list
   contents:
-    - Ranked 189th among 19,024 participants in Iran's 2019 M.Sc. entrance examination.
-    - Placed in the top 2.5% of 210,000 participants in Iran's 2015 national university entrance examination.
+    - "Ranked 189th among 19,024 participants in Iran's 2019 M.Sc. entrance examination."
+    - "Placed in the top 2.5% of 210,000 participants in Iran's 2015 national university entrance examination."
     - First place, National Royesh Festival, Music Section, 2018.
