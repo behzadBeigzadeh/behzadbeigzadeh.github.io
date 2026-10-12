@@ -23,12 +23,6 @@
 - title: Experience
   type: time_table
   contents:
-  - title: Web Penetration Tester & Software Engineer
-    institution: Gol Gohar Iron & Steel Development Company (GISDC), Kerman, Iran
-    year: 2025-01 – Present
-    description:
-    - Penetration testing of internal and external web platforms.
-    - Developing, optimizing, and maintaining ASP.NET Core applications.
   - title: Junior Security Specialist and Software Engineer
     institution: Shahid Bahonar University, Kerman, Iran
     year: 2022-01 – 2024-04

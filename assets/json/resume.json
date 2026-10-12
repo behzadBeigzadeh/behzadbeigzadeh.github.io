@@ -51,17 +51,6 @@
   ],
   "work": [
     {
-      "name": "Gol Gohar Iron & Steel Development Company (GISDC)",
-      "location": "Kerman, Iran",
-      "position": "Web Penetration Tester & Software Engineer",
-      "startDate": "2025-01",
-      "summary": "Web security assessments and secure enterprise software development.",
-      "highlights": [
-        "Penetration testing of internal and external web platforms.",
-        "Developing, optimizing, and maintaining ASP.NET Core applications."
-      ]
-    },
-    {
       "name": "Shahid Bahonar University",
       "location": "Kerman, Iran",
       "position": "Junior Security Specialist and Software Engineer",

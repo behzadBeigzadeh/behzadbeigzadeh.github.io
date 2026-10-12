@@ -17,7 +17,7 @@ social: true
 
 I am a cybersecurity researcher and software engineer with a Master's degree in Secure Computing from Tarbiat Modares University and a Bachelor's degree in Computer Software Engineering from Shahid Bahonar University of Kerman. My work connects network security, machine learning, and secure software development.
 
-Since January 2025, I have worked as a Web Penetration Tester and Software Engineer at Gol Gohar Iron & Steel Development Company, conducting web security assessments and developing ASP.NET Core applications. Previously, I worked in security and software engineering and served as an instructor and teaching assistant at Shahid Bahonar University.
+I previously worked in security and software engineering and served as an instructor and teaching assistant at Shahid Bahonar University.
 
 ##### Research
 
