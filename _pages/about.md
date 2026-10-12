@@ -2,27 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cybersecurity Researcher with a background in Computer Science, graduated from <a href='https://www.modares.ac.ir/'>TMU </a>.
-
+subtitle: Cybersecurity researcher and software engineer. M.Sc. in Secure Computing, <a href="https://www.modares.ac.ir/">Tarbiat Modares University</a>.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: <a href='/assets/pdf/CV_Beigzadeh.pdf'>Resume/CV</a>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+  image_circular: false
+  more_info: <a href="/assets/pdf/CV_Beigzadeh.pdf">Resume / CV</a>
+news: true
+selected_papers: true
+social: true
 ---
 
 ##### About
 
-I hold a Master's degree in Computer Science from Tarbiat Modares University. My research focuses on cutting-edge topics in cybersecurity, including SDN security, IoT security, federated learning security, and the application of machine learning to security.
+I am a cybersecurity researcher and software engineer with a Master's degree in Secure Computing from Tarbiat Modares University and a Bachelor's degree in Computer Software Engineering from Shahid Bahonar University of Kerman. My work connects network security, machine learning, and secure software development.
+
+Since January 2025, I have worked as a Web Penetration Tester and Software Engineer at Gol Gohar Iron & Steel Development Company, conducting web security assessments and developing ASP.NET Core applications. Previously, I worked in security and software engineering and served as an instructor and teaching assistant at Shahid Bahonar University.
 
 ##### Research
 
-As a cybersecurity researcher at the [Tarbiat modares Computer Security Lab (TMU)](https://www.modares.ac.ir/), I specialize in cybersecurity, big data security, and machine learning-based detection systems. Currently, my research is centered on security audits in IoT and developing security metrics. I am also exploring innovative paradigms for creating the next generation of more secure systems.
+My interests include federated and distributed learning, Internet measurement, computer networks and network security, IoT and IIoT security, machine learning for cybersecurity, and adversarial attacks.
 
-##### Content Creating
+My published work examines attacks and defenses in federated learning and DDoS detection for IoT devices. My CV also lists work on explainable Android malware detection and federated learning for IoT power consumption. See [publications and research in progress](/publications/) for titles, collaborators, and status.
 
-I enjoy sharing my insights and knowledge on cybersecurity, through my friend's [YouTube channel](https://www.youtube.com/@InfoSecTube).
+My latest public project, [Privacy-Preserving Clinical AI via Federated Learning](/projects/11_privacy-preserving-clinical-ai/), combines clinical-note de-identification, structured information extraction, and 30-day readmission prediction using FedAvg across three simulated hospital sites. It includes a separate differential-privacy prototype and a reproducible evaluation on synthetic data.
+
+##### Projects and teaching
+
+I publish [open-source projects](/projects/) in applied machine learning, cryptography, and security education, including Python implementations of ECDSA and the RSA shared-prime attack. I also share cybersecurity educational content through [InfoSecTube](https://www.youtube.com/@InfoSecTube) and my [Educational Content repository](https://github.com/behzadBeigzadeh/Educational-Content).
